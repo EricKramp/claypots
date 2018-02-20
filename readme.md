@@ -1,6 +1,6 @@
 # Claypots
 
-Every January a group of my friends participate in a month long creative exercise, trying to ride the wave of New Year’s resolutions and create a feeling of renewed artistic energy to start the year with.
+Every January a group of my friends participate in a month long creative exercise, trying to ride the wave of New Year’s resolutions and create a feeling of renewed artistic energy to start the year.
 
 We call the project Claypot January, and the premise is that we pick one theme/medium and create something in it every day of the month. The scope must be very limited to ensure we can actually acheive this schedule.
 
